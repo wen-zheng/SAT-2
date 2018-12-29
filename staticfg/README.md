@@ -1,4 +1,7 @@
 # StatiCFG
+
+forked from https://github.com/coetaur0/staticfg
+
 Python3 control flow graph generator
 
 StatiCFG is a package that can be used to produce control flow graphs (CFGs) for Python 3 programs. The CFGs it generates
